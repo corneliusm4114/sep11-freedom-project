@@ -1,17 +1,23 @@
-# Tool Learning Log
+# Tool Learning Log By Corn
 
-## Tool: **X**
+## Tool: **Kaboom**
 
 ## Project: **X**
 
 ---
 
-### X/X/XX:
+### 10/xx/26:
 * Text
 
 ### X/X/XX:
 * Text
 
+---
+
+## Backup Tool:  **jQuery**
+### 10/XX/26
+
+* Text 
 
 <!-- 
 * Links you used today (websites, videos, etc)
