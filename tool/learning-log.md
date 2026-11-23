@@ -8,7 +8,7 @@
 
 ### 10/xx/26
 * Kaboom CDN link:  
-< script src="https://unpkg.com/kaboom@3000.0.1/dist/kaboom.js"> 
+<script src="https://unpkg.com/kaboom@3000.0.1/dist/kaboom.js"> 
 
  
 ### X/X/XX:
